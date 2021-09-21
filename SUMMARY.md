@@ -1,14 +1,14 @@
 # Table of contents
 
 * [nameko 中文文档](README.md)
-* [nameko是什么](nameko-shi-shen-me.md)
-* [安装](an-zhuang.md)
+* [nameko是什么](what-is-nameko.md)
+* [安装](install.md)
 
-## 使用
+## 使用 <a id="use"></a>
 
-* [Untitled](shi-yong/untitled.md)
+* [Untitled](use/untitled.md)
 
-## 测试
+## 测试 <a id="test"></a>
 
-* [Untitled](ce-shi/untitled.md)
+* [Untitled](test/untitled.md)
 
