@@ -6,6 +6,8 @@
 $ pip install nameko
 ```
 
+nameko依赖rabbitmq来进行服务间通信
+
 安装rabbitmq
 
 ```text
