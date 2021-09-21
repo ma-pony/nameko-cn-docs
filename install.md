@@ -1,6 +1,6 @@
 # 安装
 
- 安装nameko
+安装nameko
 
 ```text
 $ pip install nameko

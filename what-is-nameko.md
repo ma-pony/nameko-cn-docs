@@ -11,11 +11,9 @@ Nameko是一个Python的微服务框架，开箱即用，他并不是一个web�
 
 同时他的可扩展性非常高，你可以定义自己的服务传输协议和依赖性，例如nameko-grpc等
 
-{% embed url="https://github.com/fkromer/awesome-nameko" %}
+{% embed url="https://github.com/fkromer/awesome-nameko" caption="" %}
 
 在awesome-nameko项目中你可以找到非常多的扩展
 
 Nameko强烈鼓励依赖注入模式
-
-
 
