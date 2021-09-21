@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [nameko 中文文档](README.md)
 
